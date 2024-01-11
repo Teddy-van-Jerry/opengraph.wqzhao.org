@@ -12,6 +12,10 @@ Link: https://wqzhao.org/projects/arm-lite.
 Link: https://wqzhao.org/projects/fractal-designer.
 ![Fractal Designer](fractal-designer.png)
 
+## mmCEsim
+Link: https://wqzhao.org/projects/mmcesim.
+![mmCEsim](mmcesim.png)
+
 ## Sensor Glove
 Link: https://wqzhao.org/projects/sensor-glove.
 ![Sensor Glove](sensor-glove.png)
