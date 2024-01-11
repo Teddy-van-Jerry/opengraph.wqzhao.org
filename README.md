@@ -8,6 +8,10 @@ The following opengraphs are listed in the alphabetical order of their names.
 Link: https://wqzhao.org/projects/arm-lite.
 ![ARM Lite](arm-lite.png)
 
+## Dice Simulaion
+Link: https://wqzhao.org/projects/dice-simulation
+![Dice Simulation](dice-simulation.png)
+
 ## Fractal Designer
 Link: https://wqzhao.org/projects/fractal-designer.
 ![Fractal Designer](fractal-designer.png)
