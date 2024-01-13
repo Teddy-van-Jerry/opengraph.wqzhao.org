@@ -9,7 +9,7 @@ Link: https://wqzhao.org/projects/arm-lite.
 ![ARM Lite](arm-lite.png)
 
 ## Dice Simulaion
-Link: https://wqzhao.org/projects/dice-simulation
+Link: https://wqzhao.org/projects/dice-simulation.
 ![Dice Simulation](dice-simulation.png)
 
 ## Fractal Designer
@@ -19,6 +19,10 @@ Link: https://wqzhao.org/projects/fractal-designer.
 ## mmCEsim
 Link: https://wqzhao.org/projects/mmcesim.
 ![mmCEsim](mmcesim.png)
+
+## PDF2PPT
+Link: https://wqzhao.org/projects/pdf2ppt.
+![PDF2PPT](pdf2ppt.png)
 
 ## Sensor Glove
 Link: https://wqzhao.org/projects/sensor-glove.
