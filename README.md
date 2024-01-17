@@ -24,6 +24,10 @@ Link: https://wqzhao.org/projects/mmcesim.
 Link: https://wqzhao.org/projects/pdf2ppt.
 ![PDF2PPT](pdf2ppt.png)
 
+## SDR PSK FPGA
+Link: https://wqzhao.org/projects/sdr-psk-fpga.
+![SDR PSK FPGA](sdr-psk-fpga.png)
+
 ## Sensor Glove
 Link: https://wqzhao.org/projects/sensor-glove.
 ![Sensor Glove](sensor-glove.png)
