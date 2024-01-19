@@ -20,6 +20,10 @@ Link: https://wqzhao.org/projects/fractal-designer.
 Link: https://wqzhao.org/projects/mmcesim.
 ![mmCEsim](mmcesim.png)
 
+## NGSPICE CMOS
+Link: https://wqzhao.org/projects/ngspice-cmos.
+![NGSPICE CMOS](ngspice-cmos.png)
+
 ## PDF2PPT
 Link: https://wqzhao.org/projects/pdf2ppt.
 ![PDF2PPT](pdf2ppt.png)
