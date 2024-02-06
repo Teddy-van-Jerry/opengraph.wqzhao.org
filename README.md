@@ -39,3 +39,7 @@ Link: https://wqzhao.org/projects/sensor-glove.
 ## SEU-ML-Assign
 Link: https://wqzhao.org/projects/seu-ml-assign.
 ![SEU-ML-Assign](seu-ml-assign.png)
+
+## seuthesis2024b
+Link: https://wqzhao.org/projects/seuthesis2024b.
+![seuthesis2024b](seuthesis2024b.png)
