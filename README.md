@@ -12,6 +12,10 @@ Link: https://wqzhao.org/projects/arm-lite.
 Link: https://wqzhao.org/projects/dice-simulation.
 ![Dice Simulation](dice-simulation.png)
 
+## FLAMES
+Link: https://wqzhao.org/projects/flames.
+![FLAMES](flames.png)
+
 ## Fractal Designer
 Link: https://wqzhao.org/projects/fractal-designer.
 ![Fractal Designer](fractal-designer.png)
