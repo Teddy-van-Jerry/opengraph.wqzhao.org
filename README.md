@@ -47,3 +47,7 @@ Link: https://wqzhao.org/projects/seu-ml-assign.
 ## seuthesis2024b
 Link: https://wqzhao.org/projects/seuthesis2024b.
 ![seuthesis2024b](seuthesis2024b.png)
+
+## wq.wqzhao.org
+Link: https://wq.wqzhao.org.
+![wq.wqzhao.org](wq.png)
